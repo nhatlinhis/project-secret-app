@@ -1,0 +1,7 @@
+.icons-socil {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  display: grid;
+  gap: 1rem;
+}

@@ -1,0 +1,6 @@
+img {
+  max-width: 400px;
+  background-color: #4361ee;
+  border-radius: 50% 50% 10% 10%;
+  /* border: 1px solid; */
+}
