@@ -55,7 +55,7 @@ const Nav = () => {
 export default Nav;
 
 const moodItem = document.querySelector(".mood-item");
-const bodyVery = document.querySelector("#body");
+const bodyVery = document.querySelector("body");
 
 moodItem.addEventListener("click", () => {
   bodyVery.classList.toggle("mood");
